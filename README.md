@@ -1,6 +1,5 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors]()](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- LOGO -->
 
@@ -14,19 +13,17 @@
     </p>
 </p>
 
-[![Chat on Discord](https://img.shields.io/badge/chat-Discord-7289DA?logo=discord)][Discord] [![Follow on Twitter](https://img.shields.io/badge/social-Twitter-1DA1F2?logo=twitter)]() [![See on Etherscan]()]()
+
 
 <!-- Table of Contents -->
 
 <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
 <ul>
     <li><a href="#what-is-a-dao">What is a DAO</a></li>
-    <li><a href="#what-is-developerDAO">What is  DeveloperDAO</a></li>
+    <li><a href="#what-is-NhkDAO">What is  NhkDAO</a></li>
     <li><a href="#how-do-i-join">How do I join?</a></li>
     <li><a href="#what-is-this-repo">What is this repo?</a></li>
-    <li><a href="#developing">Developing</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contributors-">Contributors</a></li>
+
 </ul>
 
 
