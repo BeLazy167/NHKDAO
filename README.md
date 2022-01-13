@@ -42,9 +42,9 @@ The project was started by Belazy and JayP as an experiment to test our Solidity
 
 ## How do I join?
 
-The DAO operates inside our [discord server](https://discord.gg/ASjBPJuNhS). To gain access to this server you need to own a [Devs for Revolution](https://opensea.io/collection/devs-for-revolution) NFT. The contract for purchasing one [can be found on etherscan.io](https://etherscan.io/address/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b#writeContract). If you're not sure how to mint an NFT, [check out this how-to article](https://jonkuperman.com/how-to-join-developer-dao/) by @jkup.
+The DAO operates inside our [discord server](https://discord.gg/ASjBPJuNhS). To gain access to this server you need to own a [NHK]() NFT. The contract for purchasing one [can be found on etherscan.io](). If you're not sure how to mint an NFT, [check out this how-to article](https://jonkuperman.com/how-to-join-developer-dao/) by @jkup.
 
-Whilst there is no charge for the NFT you will have to pay a "gas fee" for the Ethereum Blockchain network in order to mint one. This fee can range wildy from about $40 up to and over $400 at peak times. You can check current gas fee uisng the [Etherum gas price tracker](https://etherscan.io/gastracker). If the fee is high you may want to wait and come back later.
+Whilst there is basic charge for the NFT which you will have to pay with nhk tokens (we will burn the same amount of token used to buy for nft) in order to mint one. 
 
 That said, there is a limited supply of NFT's that can be created so don't wait too long!
 
@@ -54,7 +54,7 @@ If you get stuck please reach out on our [Discord] and we'd be happy to help.
 
 ## What is this repo?
 
-This is the code for the [public DeveloperDAO site](https://developerdao.com/).
+This is the code for the [public NHK DAO site](https://developerdao.com/).
 
 At the moment it allows members to view their genesis NFT by entering in its ID. As the community takes shape we will decide what this website becomes and build it as a collective.
 
