@@ -8,7 +8,7 @@
     <a href="https://developerdao.com">
     <img src="public/logo512.png" alt="logo" width="80" height="80"/>
     </a>
-    <h2 align="center">DeveloperDAO</h2>
+    <h2 align="center">NHK DAO</h2>
     <p align="center">
     A community of builders who believe in collective ownership of the internet.
     </p>
